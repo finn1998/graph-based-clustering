@@ -20,6 +20,7 @@ This repo provides an official implementation for [1, 2] and a re-implementation
 
 ## Run
 Run code with VEGCN:
+* Download data folder from: 'https://drive.google.com/file/d/13UvoFUHLVLW009165ozS7GFW4ca64Tgb/view?usp=sharing' and set folder: ./data
 * Modify input data in './vegcn/configs/cfg_train_gcnv_ms1m.py'
 * Running script: sh scripts/vegcn/train_gcn_v_ms1m.sh
 
